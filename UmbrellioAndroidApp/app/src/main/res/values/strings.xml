@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+    <string name="title_activity_maps">Umbrellas</string>
+    <string name="menu_input_mode">Input</string>
+    <string name="menu_past_mode">Past Data</string>
+    <string name="menu_live_mode">Live</string>
+    <string name="menu_heatmap">Heat Map</string>
+    <string name="menu_volumemap">Volume Map</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

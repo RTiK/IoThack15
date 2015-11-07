@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DevEUI_uplink xmlns="http://uri.actility.com/lora">
+    <Time>2015-11-07T16:11:45.445+01:00</Time>
+    <DevEUI>F03D29100000162C</DevEUI>
+    <FPort>3</FPort>
+    <FCntUp>85</FCntUp>
+    <FCntDn>0</FCntDn>
+    <payload_hex>43645609dc4f</payload_hex>
+    <mic_hex>0b7fa943</mic_hex>
+    <Lrcid>00000065</Lrcid>
+    <LrrRSSI>-65.000000</LrrRSSI>
+    <LrrSNR>9.000000</LrrSNR>
+    <SpFact>7</SpFact>
+    <SubBand>G1</SubBand>
+    <Channel>LC1</Channel>
+    <DevLrrCnt>2</DevLrrCnt>
+    <Lrrid>004a0240</Lrrid>
+    <LrrLAT>47.385014</LrrLAT>
+    <LrrLON>8.533845</LrrLON>
+    <Lrrs>
+        <Lrr>
+            <Lrrid>004a0240</Lrrid>
+            <LrrRSSI>-65.000000</LrrRSSI>
+            <LrrSNR>9.000000</LrrSNR>
+        </Lrr>
+        <Lrr>
+            <Lrrid>29000128</Lrrid>
+            <LrrRSSI>-101.000000</LrrRSSI>
+            <LrrSNR>8.250000</LrrSNR>
+        </Lrr>
+    </Lrrs>
+    <CustomerID>100000934</CustomerID>
+    <CustomerData>{"alr":{"pro":"GEN/LoRaWANRel3","ver":"1"}}</CustomerData>
+    <ModelCfg>0</ModelCfg>
+</DevEUI_uplink>
